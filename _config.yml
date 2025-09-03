@@ -1,3 +1,12 @@
 title: Sno-King 12U A2
 show_downloads: false
 theme: jekyll-theme-midnight
+
+exclude:
+  - .gitignore
+  - docker-compose.yml
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
