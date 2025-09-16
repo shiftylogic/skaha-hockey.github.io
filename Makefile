@@ -3,7 +3,6 @@ init:
 	podman machine start
 
 cleanup:
-	podman rmi --all
 	podman machine stop
 	podman machine reset --force
 

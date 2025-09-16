@@ -290,6 +290,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 226)
+  jekyll-include-cache
+  jekyll-paginate
+  jekyll-remote-theme
   webrick
 
 BUNDLED WITH

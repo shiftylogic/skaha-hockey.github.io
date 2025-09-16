@@ -1,6 +1,4 @@
 title: Sno-King 12U A2
-show_downloads: false
-theme: jekyll-theme-midnight
 
 exclude:
   - .gitignore
@@ -10,3 +8,22 @@ exclude:
   - Gemfile.lock
   - Makefile
   - README.md
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: dark
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Build settings
+atom_feed:
+  hide: true
+paginate: 10
+paginate_path: /page:num/
+search: true
+lunr:
+  search_within_pages: true
