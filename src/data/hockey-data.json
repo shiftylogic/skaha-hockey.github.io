@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-03T23:49:24.751Z"
+    "generated_at": "2026-02-10T18:02:46.658Z"
   },
   "games": [
     {
@@ -859,6 +859,42 @@
         "PNAHA",
         "league"
       ]
+    },
+    {
+      "game_id": 52,
+      "game_date": "02-08-2026 9:15 AM",
+      "game_time_minutes": 90,
+      "period1_length": 900,
+      "period1_clock_type": "stop",
+      "period2_length": 900,
+      "period2_clock_type": "stop",
+      "period3_length": 900,
+      "period3_clock_type": "stop",
+      "period4_length": null,
+      "period4_clock_type": null,
+      "has_shootout": 0,
+      "our_score": 6,
+      "their_score": 3,
+      "opponent_name": "Sno-King 14U AAA Girls",
+      "tags": []
+    },
+    {
+      "game_id": 51,
+      "game_date": "02-07-2026 1:55 PM",
+      "game_time_minutes": 90,
+      "period1_length": 900,
+      "period1_clock_type": "stop",
+      "period2_length": 900,
+      "period2_clock_type": "stop",
+      "period3_length": 900,
+      "period3_clock_type": "stop",
+      "period4_length": null,
+      "period4_clock_type": null,
+      "has_shootout": 0,
+      "our_score": 2,
+      "their_score": 0,
+      "opponent_name": "Sno-King 12U B",
+      "tags": []
     },
     {
       "game_id": 49,
@@ -4286,6 +4322,150 @@
       "scorer_name": "Rocky Breckterfield",
       "assist1_name": "Ryan Latham",
       "assist2_name": null
+    },
+    {
+      "goal_id": 173,
+      "game_id": 51,
+      "period": 1,
+      "time_seconds": 448,
+      "scorer_id": 18,
+      "assist1_id": 12,
+      "assist2_id": null,
+      "extra_skater1_id": 9,
+      "extra_skater2_id": 2,
+      "extra_skater3_id": 13,
+      "extra_skater4_id": null,
+      "goal_type": "power_play",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": "Liam Graham",
+      "assist2_name": null
+    },
+    {
+      "goal_id": 174,
+      "game_id": 51,
+      "period": 2,
+      "time_seconds": 173,
+      "scorer_id": 18,
+      "assist1_id": 5,
+      "assist2_id": 14,
+      "extra_skater1_id": 16,
+      "extra_skater2_id": 6,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "power_play",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": "Luke Bacon",
+      "assist2_name": "Max Shull"
+    },
+    {
+      "goal_id": 175,
+      "game_id": 52,
+      "period": 1,
+      "time_seconds": 462,
+      "scorer_id": 18,
+      "assist1_id": 2,
+      "assist2_id": 15,
+      "extra_skater1_id": 8,
+      "extra_skater2_id": 11,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": "Kieran Garver",
+      "assist2_name": "Nate Anderson"
+    },
+    {
+      "goal_id": 176,
+      "game_id": 52,
+      "period": 2,
+      "time_seconds": 830,
+      "scorer_id": 11,
+      "assist1_id": 15,
+      "assist2_id": null,
+      "extra_skater1_id": 5,
+      "extra_skater2_id": 8,
+      "extra_skater3_id": 6,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Jack Thompson",
+      "assist1_name": "Nate Anderson",
+      "assist2_name": null
+    },
+    {
+      "goal_id": 177,
+      "game_id": 52,
+      "period": 2,
+      "time_seconds": 448,
+      "scorer_id": 17,
+      "assist1_id": 18,
+      "assist2_id": 7,
+      "extra_skater1_id": 15,
+      "extra_skater2_id": 12,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Mason Park",
+      "assist1_name": "Rocky Breckterfield",
+      "assist2_name": "Victor Han"
+    },
+    {
+      "goal_id": 178,
+      "game_id": 52,
+      "period": 3,
+      "time_seconds": 662,
+      "scorer_id": 18,
+      "assist1_id": 7,
+      "assist2_id": null,
+      "extra_skater1_id": 17,
+      "extra_skater2_id": 16,
+      "extra_skater3_id": 6,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": "Victor Han",
+      "assist2_name": null
+    },
+    {
+      "goal_id": 179,
+      "game_id": 52,
+      "period": 3,
+      "time_seconds": 228,
+      "scorer_id": 18,
+      "assist1_id": 17,
+      "assist2_id": 15,
+      "extra_skater1_id": 12,
+      "extra_skater2_id": 7,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": "Mason Park",
+      "assist2_name": "Nate Anderson"
+    },
+    {
+      "goal_id": 180,
+      "game_id": 52,
+      "period": 3,
+      "time_seconds": 145,
+      "scorer_id": 18,
+      "assist1_id": null,
+      "assist2_id": null,
+      "extra_skater1_id": 16,
+      "extra_skater2_id": 6,
+      "extra_skater3_id": 7,
+      "extra_skater4_id": 17,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Rocky Breckterfield",
+      "assist1_name": null,
+      "assist2_name": null
     }
   ],
   "penalties": [
@@ -6486,6 +6666,34 @@
       "penalty_category": "minor",
       "penalty_length": 2,
       "player_name": "Carter Connachan"
+    },
+    {
+      "penalty_id": 161,
+      "game_id": 51,
+      "period": 1,
+      "time_seconds": 575,
+      "player_id": 4,
+      "penalty_type_id": 21,
+      "served_by_id": null,
+      "notes": "",
+      "penalty_name": "roughing",
+      "penalty_category": "minor",
+      "penalty_length": 2,
+      "player_name": "Hugo Dockter"
+    },
+    {
+      "penalty_id": 162,
+      "game_id": 51,
+      "period": 2,
+      "time_seconds": 282,
+      "player_id": 18,
+      "penalty_type_id": 21,
+      "served_by_id": null,
+      "notes": "",
+      "penalty_name": "roughing",
+      "penalty_category": "minor",
+      "penalty_length": 2,
+      "player_name": "Rocky Breckterfield"
     }
   ],
   "team_passing": [
@@ -7394,6 +7602,24 @@
       "period": 3,
       "attempts": 54,
       "completed": 35
+    },
+    {
+      "game_id": 51,
+      "period": 1,
+      "attempts": 78,
+      "completed": 44
+    },
+    {
+      "game_id": 51,
+      "period": 2,
+      "attempts": 64,
+      "completed": 46
+    },
+    {
+      "game_id": 51,
+      "period": 3,
+      "attempts": 64,
+      "completed": 42
     }
   ],
   "game_roster": [
@@ -16587,6 +16813,45 @@
       "on_ice3_id": 7,
       "on_ice4_id": 15,
       "on_ice5_id": 1,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 226,
+      "game_id": 52,
+      "period": 1,
+      "time_seconds": 609,
+      "on_ice1_id": 18,
+      "on_ice2_id": 15,
+      "on_ice3_id": 14,
+      "on_ice4_id": 7,
+      "on_ice5_id": 17,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 227,
+      "game_id": 52,
+      "period": 1,
+      "time_seconds": 83,
+      "on_ice1_id": 18,
+      "on_ice2_id": 15,
+      "on_ice3_id": 14,
+      "on_ice4_id": 17,
+      "on_ice5_id": 7,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 228,
+      "game_id": 52,
+      "period": 3,
+      "time_seconds": 860,
+      "on_ice1_id": 18,
+      "on_ice2_id": 7,
+      "on_ice3_id": 17,
+      "on_ice4_id": 15,
+      "on_ice5_id": 12,
       "on_ice6_id": null,
       "goal_type": "even_strength"
     }
