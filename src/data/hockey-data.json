@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-18T17:29:26.033Z"
+    "generated_at": "2026-02-24T19:33:35.989Z"
   },
   "games": [
     {
@@ -840,8 +840,8 @@
       ]
     },
     {
-      "game_id": 50,
-      "game_date": "02/01/2026 3:15 PM",
+      "game_id": 58,
+      "game_date": "02/21/2026 1:15 PM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -852,17 +852,16 @@
       "period4_length": null,
       "period4_clock_type": null,
       "has_shootout": 0,
-      "our_score": 5,
-      "their_score": 7,
-      "opponent_name": "Vancouver Rangers 12U A1",
+      "our_score": 3,
+      "their_score": 4,
+      "opponent_name": "Kraken 12U AA",
       "tags": [
-        "PNAHA",
-        "league"
+        "exhibition"
       ]
     },
     {
       "game_id": 57,
-      "game_date": "02-16-2026 12:30 PM",
+      "game_date": "02/16/2026 12:30 PM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -883,7 +882,7 @@
     },
     {
       "game_id": 56,
-      "game_date": "02-15-2026 5:00 PM",
+      "game_date": "02/15/2026 5:00 PM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -904,7 +903,7 @@
     },
     {
       "game_id": 55,
-      "game_date": "02-15-2026 10:30 AM",
+      "game_date": "02/15/2026 10:30 AM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -925,7 +924,7 @@
     },
     {
       "game_id": 53,
-      "game_date": "02-14-2026 8:30 AM",
+      "game_date": "02/14/2026 8:30 AM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -946,7 +945,7 @@
     },
     {
       "game_id": 54,
-      "game_date": "02-14-2026 4:15 PM",
+      "game_date": "02/14/2026 4:15 PM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -967,7 +966,7 @@
     },
     {
       "game_id": 52,
-      "game_date": "02-08-2026 9:15 AM",
+      "game_date": "02/08/2026 9:15 AM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -985,7 +984,7 @@
     },
     {
       "game_id": 51,
-      "game_date": "02-07-2026 1:55 PM",
+      "game_date": "02/07/2026 1:55 PM",
       "game_time_minutes": 90,
       "period1_length": 900,
       "period1_clock_type": "stop",
@@ -1000,6 +999,27 @@
       "their_score": 0,
       "opponent_name": "Sno-King 12U B",
       "tags": []
+    },
+    {
+      "game_id": 50,
+      "game_date": "02/01/2026 3:15 PM",
+      "game_time_minutes": 90,
+      "period1_length": 900,
+      "period1_clock_type": "stop",
+      "period2_length": 900,
+      "period2_clock_type": "stop",
+      "period3_length": 900,
+      "period3_clock_type": "stop",
+      "period4_length": null,
+      "period4_clock_type": null,
+      "has_shootout": 0,
+      "our_score": 5,
+      "their_score": 7,
+      "opponent_name": "Vancouver Rangers 12U A1",
+      "tags": [
+        "PNAHA",
+        "league"
+      ]
     },
     {
       "game_id": 49,
@@ -4949,6 +4969,60 @@
       "scorer_name": "Nate Anderson",
       "assist1_name": null,
       "assist2_name": null
+    },
+    {
+      "goal_id": 202,
+      "game_id": 58,
+      "period": 1,
+      "time_seconds": 768,
+      "scorer_id": 9,
+      "assist1_id": 2,
+      "assist2_id": 18,
+      "extra_skater1_id": 13,
+      "extra_skater2_id": 15,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Carter Connachan",
+      "assist1_name": "Kieran Garver",
+      "assist2_name": "Rocky Breckterfield"
+    },
+    {
+      "goal_id": 203,
+      "game_id": 58,
+      "period": 1,
+      "time_seconds": 464,
+      "scorer_id": 14,
+      "assist1_id": 4,
+      "assist2_id": 13,
+      "extra_skater1_id": 11,
+      "extra_skater2_id": 16,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Max Shull",
+      "assist1_name": "Hugo Dockter",
+      "assist2_name": "Spencer Han"
+    },
+    {
+      "goal_id": 204,
+      "game_id": 58,
+      "period": 3,
+      "time_seconds": 627,
+      "scorer_id": 11,
+      "assist1_id": 16,
+      "assist2_id": 14,
+      "extra_skater1_id": 6,
+      "extra_skater2_id": 18,
+      "extra_skater3_id": null,
+      "extra_skater4_id": null,
+      "goal_type": "even_strength",
+      "empty_net": 0,
+      "scorer_name": "Jack Thompson",
+      "assist1_name": "Aiden Kolter",
+      "assist2_name": "Max Shull"
     }
   ],
   "penalties": [
@@ -7331,6 +7405,48 @@
       "penalty_category": "minor",
       "penalty_length": 2,
       "player_name": "Jack Thompson"
+    },
+    {
+      "penalty_id": 174,
+      "game_id": 58,
+      "period": 1,
+      "time_seconds": 310,
+      "player_id": 15,
+      "penalty_type_id": 3,
+      "served_by_id": null,
+      "notes": "",
+      "penalty_name": "slashing",
+      "penalty_category": "minor",
+      "penalty_length": 2,
+      "player_name": "Nate Anderson"
+    },
+    {
+      "penalty_id": 175,
+      "game_id": 58,
+      "period": 2,
+      "time_seconds": 203,
+      "player_id": 15,
+      "penalty_type_id": 21,
+      "served_by_id": null,
+      "notes": "",
+      "penalty_name": "roughing",
+      "penalty_category": "minor",
+      "penalty_length": 2,
+      "player_name": "Nate Anderson"
+    },
+    {
+      "penalty_id": 176,
+      "game_id": 58,
+      "period": 2,
+      "time_seconds": 184,
+      "player_id": 7,
+      "penalty_type_id": 7,
+      "served_by_id": null,
+      "notes": "",
+      "penalty_name": "hooking",
+      "penalty_category": "minor",
+      "penalty_length": 2,
+      "player_name": "Victor Han"
     }
   ],
   "team_passing": [
@@ -8347,6 +8463,24 @@
       "period": 3,
       "attempts": 44,
       "completed": 35
+    },
+    {
+      "game_id": 58,
+      "period": 1,
+      "attempts": 68,
+      "completed": 42
+    },
+    {
+      "game_id": 58,
+      "period": 2,
+      "attempts": 83,
+      "completed": 64
+    },
+    {
+      "game_id": 58,
+      "period": 3,
+      "attempts": 82,
+      "completed": 57
     }
   ],
   "game_roster": [
@@ -15496,6 +15630,132 @@
       "position": "defense",
       "code": "3",
       "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 3,
+      "position": "goalie",
+      "code": "s",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 10,
+      "position": "goalie",
+      "code": "b",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 7,
+      "position": "forward",
+      "code": "1",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 17,
+      "position": "forward",
+      "code": "1",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 18,
+      "position": "center",
+      "code": "1",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 4,
+      "position": "center",
+      "code": "2",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 14,
+      "position": "forward",
+      "code": "2",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 11,
+      "position": "forward",
+      "code": "2",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 2,
+      "position": "forward",
+      "code": "3",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 9,
+      "position": "forward",
+      "code": "3",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 6,
+      "position": "defense",
+      "code": "1",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 16,
+      "position": "defense",
+      "code": "1",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 1,
+      "position": "defense",
+      "code": "2",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 15,
+      "position": "defense",
+      "code": "2",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 13,
+      "position": "defense",
+      "code": "3",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 5,
+      "position": "scratch",
+      "code": "x",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 8,
+      "position": "scratch",
+      "code": "x",
+      "note": null
+    },
+    {
+      "game_id": 58,
+      "player_id": 12,
+      "position": "scratch",
+      "code": "x",
+      "note": null
     }
   ],
   "shots": [],
@@ -18669,6 +18929,58 @@
       "on_ice3_id": 4,
       "on_ice4_id": 9,
       "on_ice5_id": 13,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 245,
+      "game_id": 58,
+      "period": 1,
+      "time_seconds": 520,
+      "on_ice1_id": 1,
+      "on_ice2_id": 9,
+      "on_ice3_id": 16,
+      "on_ice4_id": 17,
+      "on_ice5_id": 18,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 246,
+      "game_id": 58,
+      "period": 2,
+      "time_seconds": 657,
+      "on_ice1_id": 1,
+      "on_ice2_id": 4,
+      "on_ice3_id": 11,
+      "on_ice4_id": 14,
+      "on_ice5_id": 16,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 247,
+      "game_id": 58,
+      "period": 2,
+      "time_seconds": 429,
+      "on_ice1_id": 1,
+      "on_ice2_id": 7,
+      "on_ice3_id": 15,
+      "on_ice4_id": 17,
+      "on_ice5_id": 18,
+      "on_ice6_id": null,
+      "goal_type": "even_strength"
+    },
+    {
+      "goal_id": 248,
+      "game_id": 58,
+      "period": 3,
+      "time_seconds": 830,
+      "on_ice1_id": 1,
+      "on_ice2_id": 4,
+      "on_ice3_id": 11,
+      "on_ice4_id": 14,
+      "on_ice5_id": 15,
       "on_ice6_id": null,
       "goal_type": "even_strength"
     }
